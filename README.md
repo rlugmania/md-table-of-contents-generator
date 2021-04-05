@@ -8,6 +8,9 @@ This extensions generates a table of contents of any MD file locating the headin
 
 ![preview](preview.gif)
 
+## Usage
+
+Run and select **Generate table of contents**
 
 ## Requirements
 
