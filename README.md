@@ -19,11 +19,10 @@ Run and select **Generate table of contents**
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Nothing new here so far!
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
