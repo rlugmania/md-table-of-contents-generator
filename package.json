@@ -3,6 +3,25 @@
 	"displayName": "Md Content Table Generator",
 	"description": "Simple content table generator.",
 	"version": "1.0.0",
+	"author": {
+		"name": "Javier Lugmania",
+		"email": "jlugmania@gmail.com"
+	},
+	"publisher": "jlugmania",
+	"license": "GPLv3",
+	"homepage": "https://github.com/rlugmania/md-table-of-contents-generator",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rlugmania/md-table-of-contents-generator"
+	},
+	"bugs": {
+		"url": "https://github.com/rlugmania/md-table-of-contents-generator/issues"
+	},
+	"icon": "images/logo.png",
+	"keywords": [
+		"markdown",
+		"content"
+	],
 	"engines": {
 		"vscode": "^1.55.0"
 	},
